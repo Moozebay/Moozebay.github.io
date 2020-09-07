@@ -73,6 +73,7 @@
 
 					post.css( 'background-image', 'url(images/' + bg + ')' );
 
+					
 				});
 
 
